@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5eac9963.css",
-    "main.js": "/static/js/main.f28c1c79.js",
+    "main.js": "/static/js/main.f8138a8e.js",
     "static/media/team-1.jpg": "/static/media/team-1.0fd36e0ee93dcfacdef8.jpg",
     "static/media/team-2.jpg": "/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
     "static/media/team-3.jpg": "/static/media/team-3.0ef0be95e6850814c79e.jpg",
@@ -18,10 +18,10 @@
     "static/media/logo-atlassian.svg": "/static/media/logo-atlassian.f2b0e8570a4b4ce768854ff3dad1a6e1.svg",
     "index.html": "/index.html",
     "main.5eac9963.css.map": "/static/css/main.5eac9963.css.map",
-    "main.f28c1c79.js.map": "/static/js/main.f28c1c79.js.map"
+    "main.f8138a8e.js.map": "/static/js/main.f8138a8e.js.map"
   },
   "entrypoints": [
     "static/css/main.5eac9963.css",
-    "static/js/main.f28c1c79.js"
+    "static/js/main.f8138a8e.js"
   ]
 }
